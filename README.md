@@ -1,2 +1,2 @@
 # posty
-app made with Laravel to make posts
+app made in MVC php
